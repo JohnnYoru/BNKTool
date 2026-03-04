@@ -1,4 +1,4 @@
-# Wwise BNK Tools
+# BNK Tools
 
 Tools for extracting and repacking Wwise .bnk audio files.
 
